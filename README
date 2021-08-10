@@ -1,0 +1,19 @@
+Jacob McClure
+jatmcclu@ucsc.edu
+
+This file is a table of contents for my IntegerStack repository. 
+
+1) README - [This file] A table of contents and list of submitted files, together
+   with their roles in the program.
+
+2) Makefile - Tool created to simplify the compilation and execution of IntegerStack.c
+   Also contains a memcheck tool to check for memory leaks.
+
+3) IntegerStack.h - Header file for the IntegerStack ADT.
+
+4) IntegerStackTest.c - Test client for the IntegerStack ADT; tests each of the 
+   functions in IntegerStack.c.:
+
+5) IntegerStack.c - Array based implementation of Integer Stack ADT in C (with array doubling).
+
+
